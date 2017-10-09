@@ -1,0 +1,44 @@
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\Debug\School Management System.exe.config
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\Debug\School Management System.exe
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\Debug\School Management System.pdb
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.Cache
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School Management System.exe
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School Management System.pdb
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\Debug\MetroFramework.dll
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.LibraryMain.resources
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.LB_Book.resources
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.LB_Fine.resources
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.LB_Lending_Book.resources
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.LB_Return_Book.resources
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.LB_Settings.resources
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.LB_User.resources
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.LB_Stuent_register.resources
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School Management System.csprojResolveAssemblyReference.cache
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jayantha\Documents\Visual Studio 2015\Projects\School Management System\School Management System\bin\Debug\Newtonsoft.Json.xml
+E:\Visual Studio 2015\Projects\School Management System\School Management System\bin\Debug\School Management System.exe.config
+E:\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School Management System.exe
+E:\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School Management System.pdb
+E:\Visual Studio 2015\Projects\School Management System\School Management System\bin\Debug\School Management System.exe
+E:\Visual Studio 2015\Projects\School Management System\School Management System\bin\Debug\School Management System.pdb
+E:\Visual Studio 2015\Projects\School Management System\School Management System\bin\Debug\MetroFramework.Design.dll
+E:\Visual Studio 2015\Projects\School Management System\School Management System\bin\Debug\MetroFramework.dll
+E:\Visual Studio 2015\Projects\School Management System\School Management System\bin\Debug\MetroFramework.Fonts.dll
+E:\Visual Studio 2015\Projects\School Management System\School Management System\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio 2015\Projects\School Management System\School Management System\bin\Debug\Newtonsoft.Json.xml
+E:\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School Management System.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.LB_Book.resources
+E:\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.LB_Fine.resources
+E:\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.LB_Lending_Book.resources
+E:\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.LibraryMain.resources
+E:\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.LB_Return_Book.resources
+E:\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.LB_Settings.resources
+E:\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.LB_User.resources
+E:\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+E:\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+E:\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School_Management_System.LB_Stuent_register.resources
+E:\Visual Studio 2015\Projects\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.Cache
